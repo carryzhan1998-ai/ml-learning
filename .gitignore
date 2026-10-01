@@ -1,0 +1,21 @@
+# 数据与模型权重（绝不提交）
+data/
+*.csv
+*.pkl
+*.pt
+*.pth
+*.safetensors
+checkpoints/
+outputs/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.log
