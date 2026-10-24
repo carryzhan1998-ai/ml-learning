@@ -19,3 +19,11 @@ __pycache__/
 .vscode/
 .idea/
 *.log
+
+*.ckpt
+runs/
+
+# HW02 数据集文件
+hw02/train_split.txt
+hw02/train_labels.txt
+hw02/test_split.txt
